@@ -7,7 +7,7 @@ update_points
 ATTRIBUTES:
 color_points
 rock_points
-Gem
+gem_points
 
 
 """
